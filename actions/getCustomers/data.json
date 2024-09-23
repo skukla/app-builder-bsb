@@ -1,0 +1,182 @@
+[
+  {
+    "firstName": "John",
+    "lastName": "Smith",
+    "email": "john.smith@example.com",
+    "telephone": "(555) 123-4567",
+    "dob": "1985-04-12",
+    "billingAddress": "123 Main St, Apt 4B, Springfield, IL 62704",
+    "shippingAddress": "456 Oak St, Springfield, IL 62703"
+  },
+  {
+    "firstName": "Jane",
+    "lastName": "Doe",
+    "email": "jane.doe@example.com",
+    "telephone": "(555) 987-6543",
+    "dob": "1990-06-15",
+    "billingAddress": "789 Pine Ave, Miami, FL 33101",
+    "shippingAddress": "1012 Elm St, Miami, FL 33102"
+  },
+  {
+    "firstName": "Michael",
+    "lastName": "Johnson",
+    "email": "michael.johnson@example.com",
+    "telephone": "(555) 234-5678",
+    "dob": "1982-11-20",
+    "billingAddress": "321 Birch Dr, San Francisco, CA 94101",
+    "shippingAddress": "654 Cedar Blvd, San Francisco, CA 94102"
+  },
+  {
+    "firstName": "Emily",
+    "lastName": "Davis",
+    "email": "emily.davis@example.com",
+    "telephone": "(555) 345-6789",
+    "dob": "1993-03-22",
+    "billingAddress": "111 Maple St, Denver, CO 80202",
+    "shippingAddress": "222 Walnut St, Denver, CO 80203"
+  },
+  {
+    "firstName": "David",
+    "lastName": "Miller",
+    "email": "david.miller@example.com",
+    "telephone": "(555) 456-7890",
+    "dob": "1975-09-10",
+    "billingAddress": "555 Oak Ave, Chicago, IL 60601",
+    "shippingAddress": "777 Elm Blvd, Chicago, IL 60602"
+  },
+  {
+    "firstName": "Sophia",
+    "lastName": "Garcia",
+    "email": "sophia.garcia@example.com",
+    "telephone": "(555) 567-8901",
+    "dob": "1995-12-01",
+    "billingAddress": "888 Cedar St, Austin, TX 73301",
+    "shippingAddress": "999 Birch Blvd, Austin, TX 73302"
+  },
+  {
+    "firstName": "James",
+    "lastName": "Martinez",
+    "email": "james.martinez@example.com",
+    "telephone": "(555) 678-9012",
+    "dob": "1987-08-08",
+    "billingAddress": "444 Pine Blvd, Phoenix, AZ 85001",
+    "shippingAddress": "555 Maple Dr, Phoenix, AZ 85002"
+  },
+  {
+    "firstName": "Olivia",
+    "lastName": "Wilson",
+    "email": "olivia.wilson@example.com",
+    "telephone": "(555) 789-0123",
+    "dob": "1998-07-19",
+    "billingAddress": "777 Cherry Ln, New York, NY 10001",
+    "shippingAddress": "888 Oak Ave, New York, NY 10002"
+  },
+  {
+    "firstName": "Ethan",
+    "lastName": "Taylor",
+    "email": "ethan.taylor@example.com",
+    "telephone": "(555) 890-1234",
+    "dob": "1989-05-25",
+    "billingAddress": "111 Birch Blvd, Los Angeles, CA 90001",
+    "shippingAddress": "222 Cedar Ln, Los Angeles, CA 90002"
+  },
+  {
+    "firstName": "Ava",
+    "lastName": "Anderson",
+    "email": "ava.anderson@example.com",
+    "telephone": "(555) 901-2345",
+    "dob": "1992-01-30",
+    "billingAddress": "333 Oak St, Dallas, TX 75201",
+    "shippingAddress": "444 Pine Ave, Dallas, TX 75202"
+  },
+  {
+    "firstName": "Logan",
+    "lastName": "Thomas",
+    "email": "logan.thomas@example.com",
+    "telephone": "(555) 012-3456",
+    "dob": "1981-11-18",
+    "billingAddress": "555 Maple Blvd, Seattle, WA 98101",
+    "shippingAddress": "666 Cedar Ave, Seattle, WA 98102"
+  },
+  {
+    "firstName": "Isabella",
+    "lastName": "Moore",
+    "email": "isabella.moore@example.com",
+    "telephone": "(555) 123-4567",
+    "dob": "1988-03-05",
+    "billingAddress": "777 Birch Blvd, Boston, MA 02101",
+    "shippingAddress": "888 Cedar Ln, Boston, MA 02102"
+  },
+  {
+    "firstName": "Mason",
+    "lastName": "Jackson",
+    "email": "mason.jackson@example.com",
+    "telephone": "(555) 234-5678",
+    "dob": "1976-06-27",
+    "billingAddress": "111 Oak Ave, Houston, TX 77001",
+    "shippingAddress": "222 Maple St, Houston, TX 77002"
+  },
+  {
+    "firstName": "Mia",
+    "lastName": "White",
+    "email": "mia.white@example.com",
+    "telephone": "(555) 345-6789",
+    "dob": "1991-02-14",
+    "billingAddress": "333 Cedar Ln, Atlanta, GA 30301",
+    "shippingAddress": "444 Birch Blvd, Atlanta, GA 30302"
+  },
+  {
+    "firstName": "Lucas",
+    "lastName": "Harris",
+    "email": "lucas.harris@example.com",
+    "telephone": "(555) 456-7890",
+    "dob": "1980-12-31",
+    "billingAddress": "555 Oak Ave, Las Vegas, NV 89101",
+    "shippingAddress": "666 Pine St, Las Vegas, NV 89102"
+  },
+  {
+    "firstName": "Charlotte",
+    "lastName": "Martin",
+    "email": "charlotte.martin@example.com",
+    "telephone": "(555) 567-8901",
+    "dob": "1993-04-21",
+    "billingAddress": "777 Maple Blvd, Orlando, FL 32801",
+    "shippingAddress": "888 Oak Ln, Orlando, FL 32802"
+  },
+  {
+    "firstName": "Henry",
+    "lastName": "Thompson",
+    "email": "henry.thompson@example.com",
+    "telephone": "(555) 678-9012",
+    "dob": "1977-08-15",
+    "billingAddress": "111 Birch St, Minneapolis, MN 55401",
+    "shippingAddress": "222 Oak Blvd, Minneapolis, MN 55402"
+  },
+  {
+    "firstName": "Amelia",
+    "lastName": "Garcia",
+    "email": "amelia.garcia@example.com",
+    "telephone": "(555) 789-0123",
+    "dob": "1984-07-06",
+    "billingAddress": "333 Cedar Ave, Portland, OR 97201",
+    "shippingAddress": "444 Maple St, Portland, OR 97202"
+  },
+  {
+    "firstName": "Sebastian",
+    "lastName": "Martinez",
+    "email": "sebastian.martinez@example.com",
+    "telephone": "(555) 890-1234",
+    "dob": "1990-09-22",
+    "billingAddress": "555 Oak Ln, San Diego, CA 92101",
+    "shippingAddress": "666 Pine Blvd, San Diego, CA 92102"
+  },
+  {
+    "firstName": "Harper",
+    "lastName": "Clark",
+    "email": "harper.clark@example.com",
+    "telephone": "(555) 901-2345",
+    "dob": "1997-03-12",
+    "billingAddress": "777 Maple Blvd, Miami, FL 33101",
+    "shippingAddress": "888 Oak St, Miami, FL 33102"
+  }
+]
